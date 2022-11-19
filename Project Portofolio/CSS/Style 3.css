@@ -1,0 +1,13 @@
+@charset "utf-8";
+.Naa {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-size: 16px;
+    font-weight: 200;
+    color: #F9F9F9;
+    background-image: url(../../Latihan/LatihanLink/Picsart_22-10-04_20-20-31-606.jpg);
+    list-style-image: url(../../Latihan/LatihanLink/FotoJet%20-%202022-08-07T220829.452.jpg);
+    position: static;
+    -webkit-transition: all 5s ease 2s;
+    -o-transition: all 5s ease 2s;
+    transition: all 5s ease 2s;
+}
